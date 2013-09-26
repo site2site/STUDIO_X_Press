@@ -10,8 +10,16 @@ Concept 1: STUDIO_X_Press
  Sound, humidity and temperature sensors are embeded in main event spaces inside Studio X, and takes reading in real time, send out event related messages that combined with weather information and greetings. "environmental messages + event inforation" eg. "Temperature in downtown New York is in the mid 80s, relative humidity about 40 to 50%, zero chance of rain, come on down to the eight o'clock presentation of Site2Site project."
 
 Circuitry Location
-![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/diagram_electrical-03.jpg)
+![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/x_press1-03.jpg)
 
+collage
+![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/xpress5-05.jpg)
+![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/xpress5-06.jpg)
+
+Equipment list
+![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/temp%20sensor.png)
+![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/diagram_electrical-03.jpg)
+![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/diagram_electrical-03.jpg)
 
 Concept 2: Streaming Screen
 ---
