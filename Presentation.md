@@ -20,6 +20,8 @@ Equipment list
 ![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/temp%20sensor.png)
 ![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/sound%20sense.jpg)
 ![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/humid%20sens.jpg)
+![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/Arduino_Uno_-_R3-1.jpg)
+
 
 
 
