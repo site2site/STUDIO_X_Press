@@ -9,6 +9,7 @@
  Sound, humidity and temperature sensors are embeded in main event spaces inside Studio X, and takes reading in real time, send out event related messages that combined with weather information and greetings. "environmental messages + event inforation" eg. "Temperature in downtown New York is in the mid 80s, relative humidity about 40 to 50%, zero chance of rain, come on down to the eight o'clock presentation of Site2Site project."
 
 Circuitry Location
-![Image](https://raw.github.com/site2site/The-Voice-of-Studio-X/master/Images/Diagrams-01.jpg)
+![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/diagram_electrical-03.jpg)
+
 
  
