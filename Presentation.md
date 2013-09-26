@@ -14,7 +14,7 @@ Circuitry Location
 
 collage
 ![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/xpress5-05.jpg)
-![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/xpress5-06.jpg)
+![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/xpress6-06.jpg)
 
 Equipment list
 ![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/temp%20sensor.png)
