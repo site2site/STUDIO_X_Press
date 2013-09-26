@@ -18,8 +18,10 @@ collage
 
 Equipment list
 ![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/temp%20sensor.png)
-![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/diagram_electrical-03.jpg)
-![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/diagram_electrical-03.jpg)
+![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/sound%20sense.jpg)
+![Image](https://raw.github.com/site2site/STUDIO_X_Press/master/images/humid%20sens.jpg)
+
+
 
 Concept 2: Streaming Screen
 ---
