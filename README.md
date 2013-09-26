@@ -10,5 +10,4 @@ How does it work? Light, sound, humidity and temperature are taken by respective
 ## Team Structure
 
 @weimpromptu: function design/coding 
-@yonoo: function design/coding
 @username: role
