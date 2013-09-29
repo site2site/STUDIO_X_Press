@@ -1,12 +1,17 @@
 ## September 28, 2013
 
-Your project appends new forms of information to Studio-X events in order to produce a new online user interface for Studio-X events based on sorting by this information. You will build out a database that pulls in Studio-X event information from the GSAPP events [calendar](events.gsapp.org) and pairs it with information pulled from the space itself during the event, starting with climatic data such as temperature and pressure.
+When people tweet or share photos on Instagram at a Studio-X event, they often use a hashtag to connect their tweet to the event. Your project provides a sort of environmental or architectural tag that can be applied to the event itself, as well as any tweets, Instagram photos or other information that is related to the event. This is a new kind of tag, say, an `arch tag`, rather than a `hash tag`.
 
-You will build a web site that will allow the user to sort Studio-X events by the strange traits that you will collect. For instance, they will be able to sort by all events that occurred in a room with a temperature above 85º F.
+You will use this tagging system to produce a new online user interface for Studio-X content based on sorting by this information. You will build out a database that pulls in this environmental information - from sensors in the space that will measure temperature, humidity, pressure, the number of people in the room, etc, and from other sources (like servers that give the cycle of the moon, or the number of sun spots that day) - and coorelates it to Studio-X information (such as: events from the GSAPP events [calendar](events.gsapp.org), tweets, Instagram photos, flickr sets, etc).
 
-Later, you can also try to pull in data from online sources that will allow you to include other random information like the number of sun spots on the day of the event, astrology information, horoscope, top news stories, etc.
+This requires you designing and building 3 things:
 
-The Studio Analytics group will prepare a grid backbone that you will tap into to add your sensors.
+1.	You will build a single physical unit with a Raspberry Pi and an Arduino installed in Studio-X NYC that will collect a minumum of 7 pieces of information (temperature, humidity, barometric pressure, light levels, number of people in the space, etc - all up to you to decide) and send them to the cloud where they will be logged and timestamped in a database.
+
+2.	You will build a web site that will allow the user to sort Studio-X events by the strange traits that you will collect. For instance, they will be able to sort by all events that occurred in a room with a temperature above 85º F.
+
+3.	You will build a database hosted in the cloud that will collect this environmental data and also pull in Studio-X events from the GSAPP events calendar, and tweets, Instagram photos and anything else that is related to Studio-X, and you will correlate it all together in this database. This database will serve your website in #2 above. Later, you can also try to pull in data from online sources that will allow you to include other random information like the number of sun spots on the day of the event, astrology information, horoscope, top news stories, etc.
+
 
 
 ## September 20, 2013
