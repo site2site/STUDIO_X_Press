@@ -21,3 +21,4 @@
 
 ![Image6](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI_WEB_Page_6.jpg?raw=true)
 
+![Image7](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI_WEB_Page_7.jpg?raw=true)
