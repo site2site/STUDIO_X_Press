@@ -5,19 +5,19 @@
 
 ##Mobile UI
 
-![Image](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI.pdf)
+![Image](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI.jpg)
 
 ##Web UI
 
-![Image1](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI%20WEB_Part1.pdf)
+![Image1](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI_WEB_Page_1.jpg)
 
-![Image2](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI%20WEB_Part2.pdf)
+![Image2](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI_WEB_Page_2.jpg)
 
-![Image3](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI%20WEB_Part3.pdf)
+![Image3](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI_WEB_Page_3.jpg)
 
-![Image4](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI%20WEB_Part4.pdf)
+![Image4](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI_WEB_Page_4.jpg)
 
-![Image5](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI%20WEB_Part5.pdf)
+![Image5](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI_WEB_Page_5.jpg)
 
-![Image6](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI%20WEB_Part6.pdf)
+![Image6](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI_WEB_Page_6.jpg)
 
