@@ -28,14 +28,14 @@ project: studio-x-press
 
 ![Image7](https://github.com/site2site/STUDIO_X_Press/blob/master/images/7.jpg?raw=true)
 
-![Image8](https://github.com/site2site/STUDIO_X_Press/blob/master/images/8.jpg?raw=true)
+![Image8](https://github.com/site2site/STUDIO_X_Press/blob/master/images/11.jpg?raw=true)
 
 ![Image9](https://github.com/site2site/STUDIO_X_Press/blob/master/images/9.jpg?raw=true)
 
 ![Image10](https://github.com/site2site/STUDIO_X_Press/blob/master/images/10.jpg?raw=true)
 
 
-![Image11](https://github.com/site2site/STUDIO_X_Press/blob/master/images/11.jpg?raw=true)
+![Image11](https://github.com/site2site/STUDIO_X_Press/blob/master/images/8.jpg?raw=true)
 
 
 ![Image12](https://github.com/site2site/STUDIO_X_Press/blob/master/images/12.jpg?raw=true)
