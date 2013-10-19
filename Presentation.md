@@ -8,13 +8,9 @@ project: studio-x-press
 ##STUDIO_X_Press
 ---
 
-###STUDIO X EVENTS UI
+###STUDIO X HASHTAG
 
-##Mobile UI
-
-![Image](https://github.com/site2site/STUDIO_X_Press/blob/master/images/UI.jpg?raw=true)
-
-##Web UI
+##IMAGE OF STUDIO X
 
 ![Image1](https://github.com/site2site/STUDIO_X_Press/blob/master/images/1.jpg?raw=true)
 
@@ -25,6 +21,8 @@ project: studio-x-press
 ![Image4](https://github.com/site2site/STUDIO_X_Press/blob/master/images/4.jpg?raw=true)
 
 ![Image5](https://github.com/site2site/STUDIO_X_Press/blob/master/images/5.jpg?raw=true)
+
+##Web UI
 
 ![Image6](https://github.com/site2site/STUDIO_X_Press/blob/master/images/6.jpg?raw=true)
 
@@ -42,6 +40,7 @@ project: studio-x-press
 
 ![Image12](https://github.com/site2site/STUDIO_X_Press/blob/master/images/12.jpg?raw=true)
 
+##Mobile UI
 
 ![Image13](https://github.com/site2site/STUDIO_X_Press/blob/master/images/13.jpg?raw=true)
 
