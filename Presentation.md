@@ -1,3 +1,10 @@
+---
+layout: base
+style: lecture
+title: Site to Site | Studio-X Press
+menu: project
+project: studio-x-press
+---
 ##STUDIO_X_Press
 ---
 
